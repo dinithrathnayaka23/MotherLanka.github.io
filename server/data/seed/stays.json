@@ -1,0 +1,628 @@
+[
+  {
+    "id": "1",
+    "name": "CHILL VILLE, VIEW POINT HOTEL",
+    "location": "Ella",
+    "type": "Hotel",
+    "price": 47720,
+    "rating": 4.3,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square600/288804230.webp?k=4ed92b383dba80c308d005b77e6bdc81fd26b4867c054ce046d173087b7d5c01&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/288804230.webp?k=4ed92b383dba80c308d005b77e6bdc81fd26b4867c054ce046d173087b7d5c01&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/288801536.jpg?k=5dde9fe27ea8ad7597b4a1cf228d325ca34c91a9df7d86ebf09d43d9e31bb4ee&o=",
+      "https://www.chillville.lk/images/about/about_chill_ville_ella_hotel.jpg",
+      "https://www.chillville.lk/images/about/img-2.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "The Golden Ridge Hotel",
+    "location": "Nuwara Eliya",
+    "type": "Hotel",
+    "price": 27500,
+    "rating": 4.2,
+    "image": "https://lakpura.com/cdn/shop/files/LK15CE4A36-07-E.jpg?v=1730972654&width=1445",
+    "images": [
+      "https://lakpura.com/cdn/shop/files/LK15CE4A36-07-E.jpg?v=1730972654&width=1445",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508898916.jpg?k=1d400c1919026d06201ab4dd91e99f8ea97d4bceaed29846f9dd4af6ff666385&o=",
+      "https://www.thegoldenridge.com/images/site-specific/golden_ridge/banner-sitemap.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/2a/c1/f4/ef/the-mountain-view-suites.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Earl's Regency Hotel",
+    "location": "Kandy",
+    "type": "Hotel",
+    "price": 38500,
+    "rating": 4.1,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max500/283311306.jpg?k=194e860292e00eeced89caf78d9a107587c2331e29dd8d4d69fe3764705155e1&o=&hp=1",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max500/283311306.jpg?k=194e860292e00eeced89caf78d9a107587c2331e29dd8d4d69fe3764705155e1&o=&hp=1",
+      "https://media-cdn.tripadvisor.com/media/photo-s/1b/86/b6/7d/earl-s-regency-hotel.jpg",
+      "https://lakpura.com/cdn/shop/files/LK1500099E-07-E.jpg?v=1690696366&width=1946",
+      "https://lakpura.com/cdn/shop/files/LK1500099E-03-E.jpg?v=1690696328&width=1445"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Jetwing Blue",
+    "location": "Negombo",
+    "type": "Resort",
+    "price": 36500,
+    "rating": 4.2,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/76719700.jpg?k=7871ca3e6e62a2c6ab5bef3630c56856de5749e05b82abd9b8e507e3e7568666&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/76719700.jpg?k=7871ca3e6e62a2c6ab5bef3630c56856de5749e05b82abd9b8e507e3e7568666&o=",
+      "https://www.jetwinghotels.com/jetwingblue/wp-content/uploads/sites/26/2023/09/Main-1.jpg",
+      "https://lakpura.com/cdn/shop/files/LK15003E0B-01-E.jpg?v=1691408500"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Kutumbaya",
+    "location": "Anuradhapura",
+    "type": "Homestay",
+    "price": 18266,
+    "rating": 4,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436097967.jpg?k=be137e4b46912443ebf97bd2bb8e7816116eff3fe26e91c39414fcbf7b82d183&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436097967.jpg?k=be137e4b46912443ebf97bd2bb8e7816116eff3fe26e91c39414fcbf7b82d183&o=",
+      "https://images.trvl-media.com/lodging/18000000/17040000/17038400/17038369/755a15c6.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+      "https://images.trvl-media.com/lodging/18000000/17040000/17038400/17038369/0e67fcaa.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Unawatuna Backpacker Lodge",
+    "location": "Galle",
+    "type": "Eco Lodge",
+    "price": 9300,
+    "rating": 4.3,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max500/163138718.jpg?k=06947a6f5598819873693ce178084a610c9cc432c68d042c9a214a82d7f668b0&o=&hp=1",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max500/163138718.jpg?k=06947a6f5598819873693ce178084a610c9cc432c68d042c9a214a82d7f668b0&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390799178.jpg?k=6ee3f93acae467e0df323c704c3d09c77ef74b5635689858cdc6b4b3b2e2a6c4&o=",
+      "https://media-cdn.tripadvisor.com/media/photo-s/09/89/a4/fe/unawatuna-backpacker.jpg"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Cinnamon Life at City of Dreams",
+    "location": "Colombo",
+    "type": "Hotel",
+    "price": 48600,
+    "rating": 4.9,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/588945741.jpg?k=0c6c7b0fd96d38c70101f6b57ddb2e75eeece3889616d3a28877f5cc3d5fd7ef&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/588945741.jpg?k=0c6c7b0fd96d38c70101f6b57ddb2e75eeece3889616d3a28877f5cc3d5fd7ef&o=",
+      "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/imagepool/67d3c92725330.jpg",
+      "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/cache/v2/66bd8303e226a.jpg/1050x800/resize/80/2ec1ba7a21dda047eaf9b39441c5419e.jpg"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Ella Dream Mount",
+    "location": "Ella",
+    "type": "Resort",
+    "price": 23241,
+    "rating": 4.7,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509709832.jpg?k=f72cac8c311b2e2241cd34917e09a5ea33ccedd6d111e0b91e3cff1fa2f6a0c5&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509709832.jpg?k=f72cac8c311b2e2241cd34917e09a5ea33ccedd6d111e0b91e3cff1fa2f6a0c5&o=",
+      "https://images.trvl-media.com/lodging/126000000/125070000/125065900/125065844/564dd469.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509737749.jpg?k=016395ee07ed334edbcd704b47eb80fad470fd5e98a39de8f77195bf2d2c63c0&o=",
+      "https://static.travelated.com/storage/hotels3/210/2107015/property/56411275337.webp?w=3840&webp.quality=75&format=webp&scale=down&mode=crop"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Yala Safari Green Home Stay",
+    "location": "Hambantota",
+    "type": "Homestay",
+    "price": 4600,
+    "rating": 3.9,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max500/581166050.jpg?k=7ba9787be902b87592d765765e677ecf369864ef5bda05eaba71cd2c5401d273&o=&hp=1",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max500/581166050.jpg?k=7ba9787be902b87592d765765e677ecf369864ef5bda05eaba71cd2c5401d273&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/581170859.jpg?k=01266a16ae1755663c55ea7d4f47d87cbab7833726b2b8a3514fc88c091320d7&o=",
+      "https://imgservice.casai.com/500x245/green-lake-view-yal-lk-tissamaharama-bc-11309111-0.jpg",
+      "https://yala-green-home-stay.srilankahotel.net/data/Photos/700x500w/16026/1602658/1602658500.JPEG"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Amandara Hills",
+    "location": "Kandy",
+    "type": "Eco Lodge",
+    "price": 27800,
+    "rating": 4.5,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/542727909.jpg?k=e734c099c507abf8c5525a035cbfe07033ec49ae6542a2e2ffe77d18a7bc4848&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/542727909.jpg?k=e734c099c507abf8c5525a035cbfe07033ec49ae6542a2e2ffe77d18a7bc4848&o=",
+      "https://images.trvl-media.com/lodging/100000000/99210000/99205400/99205340/69b6b86a.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/518308577.jpg?k=4fb7efe74ca86be231ce64d4069d702250ca3389d41cd19c398b9c8803b6b37a&o=",
+      "https://images.trvl-media.com/lodging/100000000/99210000/99205400/99205340/01151118.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Ocean Front Villa",
+    "location": "Hikkaduwa",
+    "type": "Hotel",
+    "price": 17660,
+    "rating": 4.5,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/606880004.jpg?k=08a79203abe14c57551c2c2de0bfcaae2d3914ae7258adba6294857b2aa86c10&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/606880004.jpg?k=08a79203abe14c57551c2c2de0bfcaae2d3914ae7258adba6294857b2aa86c10&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508296847.jpg?k=64a1ee26ab3075f80d26fac6188d3cf17c4c829b4efe7a9e846d5dcdbd7e9359&o=",
+      "https://cdn-5ef89544c1ac18150827eb39.closte.com/wp-content/uploads/2020/07/Ocean-Front-Villa-wite-private-pool-1-1.jpg",
+      "https://www.villasinluxury.com/blog/wp-content/uploads/2025/01/Villa-One.jpg"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Latheena Resort",
+    "location": "Weligama",
+    "type": "Resort",
+    "price": 12000,
+    "rating": 4.4,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/113473789.jpg?k=c4d736db9a56c83e1ecc31a0672cc64b3514e4105e88b56752dbf1f656aa55b5&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/113473789.jpg?k=c4d736db9a56c83e1ecc31a0672cc64b3514e4105e88b56752dbf1f656aa55b5&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/113478214.jpg?k=ae113b77ca8b57bee6eb24baf60b27c0e5bf589d4cb01a59026edd60de735420&o=",
+      "https://images.trvl-media.com/lodging/12000000/11860000/11857400/11857330/9f6ee5a3.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/113473646.jpg?k=44c824246b7422f56d8775d6c78d3602e588d323d673f561c0abba3d1bb0e3ff&o="
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Surf and Salt",
+    "location": "Weligama",
+    "type": "Homestay",
+    "price": 11465,
+    "rating": 4,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/785230755.jpg?k=12286ce01f9075d5b9a8afc86d31a5699130106ff375b9c420aea31ee1207ad2&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/785230755.jpg?k=12286ce01f9075d5b9a8afc86d31a5699130106ff375b9c420aea31ee1207ad2&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/528851228.jpg?k=d4cdff4adb0f9281c0d14cf044a318e0b3e45924e6db5ffb9707f448fb518b15&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/785232332.jpg?k=44193d66d0030fe78168b9879b88d27d77a49b83692d3d545bd2a32215e83c1a&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343736279.jpg?k=07711ef241520c010060f716beddf3df09c76d5914833c1c9f9526d20529497e&o="
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Seattle Nuwara Eliye",
+    "location": "Nuwara Eliya",
+    "type": "Eco Lodge",
+    "price": 35500,
+    "rating": 4.4,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/750287804.jpg?k=ceba753086b7cc2f70a85c1cfdba9bede91e4fc51b1aab3af80872d54d4dbed6&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/750287804.jpg?k=ceba753086b7cc2f70a85c1cfdba9bede91e4fc51b1aab3af80872d54d4dbed6&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/750287691.jpg?k=9f648aead318aff02ccffffeed4f38f4c0d42b1153347f758a9aeae994e24a9d&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/750300898.jpg?k=51884ce8f65395851d3ced2a3b4462b1d0586fcb4415ffc4c88f4949ee05ca88&o=",
+      "https://imgservice.rentbyowner.com/500x245/nestled-with-warm-lk-nuwara-eliya-ha-61111740970-0.jpg"
+    ]
+  },
+  {
+    "id": "baron-luxury-boutique",
+    "name": "Baron Luxury Boutique",
+    "location": "Nuwara Eliya",
+    "type": "Hotel",
+    "price": 22400,
+    "rating": 4.5,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465911306.jpg?k=28a9cd557b7a6ce7aa010c7b3720f44b03cfb4a77340f4020fd891c3cc93335b&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465911306.jpg?k=28a9cd557b7a6ce7aa010c7b3720f44b03cfb4a77340f4020fd891c3cc93335b&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465910732.jpg?k=405a51bfad28fbd6e883a2a202629eba381f59c4c65e945916d90269054c8bdb&o=",
+      "https://images.trvl-media.com/lodging/102000000/101530000/101529700/101529617/82ff9387.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+      "https://images.trvl-media.com/lodging/102000000/101530000/101529700/101529617/a99417d9.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Mandaram Eco Resort",
+    "location": "Nuwara Eliya",
+    "type": "Resort",
+    "price": 41800,
+    "rating": 4.8,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/238223498.jpg?k=3f35c7b40f8a1ab9b06b9516464a078bb069bba5443569c4439a89211789d5cf&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/238223498.jpg?k=3f35c7b40f8a1ab9b06b9516464a078bb069bba5443569c4439a89211789d5cf&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/575350179.jpg?k=2c210c4ef8e8dd2bd3ba33b324b1bb0e12796477d7d418571759b7c461a1405f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/238223503.jpg?k=7f6fb22838d7d94eb64c13979159a8ac625e23a055ae4edb069f1e55b251661d&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/238223516.jpg?k=21cf46d2ddef3906d391b6d33de86644a5eaf3051932a6185c29177096b9ba79&o="
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Sunstyle Mirissa Guest House",
+    "location": "Mirissa",
+    "type": "Homestay",
+    "price": 8830,
+    "rating": 4.3,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max500/322659684.jpg?k=dc5a9a244008ea6b483dbf7e937ff8c151b4e81549c37d4d00208095c50070d4&o=&hp=1",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max500/322659684.jpg?k=dc5a9a244008ea6b483dbf7e937ff8c151b4e81549c37d4d00208095c50070d4&o=&hp=1",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/322659826.jpg?k=1680dcde47e93f516ba5ec83b0c09df4730d53d0bf491d8fba5efdcc65140808&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/717033223.jpg?k=e4083df1f221685e56cff825a8b860e5097392def7d25c061dcbeb5879ffbdb5&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/217476649.jpg?k=57a4c719028d7247679f0d4f0db7fcf22c2dbff426f2b632d3366f549eb8ed8c&o="
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Eco Lux Villas",
+    "location": "Ahangama",
+    "type": "Eco Lodge",
+    "price": 19830,
+    "rating": 4.2,
+    "image": "https://q-xx.bstatic.com/xdata/images/hotel/max500/682812949.jpg?k=a109144319623ebccf87cbc6a373fa23ce71034c2ff40d463f974a7a6a9efc6a&o=",
+    "images": [
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/682812949.jpg?k=a109144319623ebccf87cbc6a373fa23ce71034c2ff40d463f974a7a6a9efc6a&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/807074696.jpg?k=74f052ebac55c37a3ad1c76afff081af099b8d4e720167737befad0f621a18c3&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/682812999.jpg?k=500d472b75c38c7867c8aeb7d0d4015b5c07c5090d41be10e7fb0451f0bdc746&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/682812864.jpg?k=1ad1d1334d01386ea33a51b7faf6258bed4a0f0d7811886f6b3af502bac0a88f&o="
+    ]
+  },
+  {
+    "id": "18",
+    "name": "La Dolce Vita Weligama",
+    "location": "Weligama",
+    "type": "Hotel",
+    "price": 41830,
+    "rating": 4.7,
+    "image": "https://lakpura.com/cdn/shop/files/LK15823196-01-E.jpg?v=1747719671",
+    "images": [
+      "https://lakpura.com/cdn/shop/files/LK15823196-01-E.jpg?v=1747719671",
+      "https://lakpura.com/cdn/shop/files/LK15823196-02-E.jpg?v=1747719716&width=1445",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/801135750.jpg?k=41fb6f36f1f4a45a6041f98a7b110b879b0f8cb6261c76b1f06a8c39c6d9b721&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/626147589.jpg?k=063a6ee73af5d76070bf188cdb2e2d2a906756ac1612820bb8e804f8437287bb&o="
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Surf Lavender",
+    "location": "Weligama",
+    "type": "Resort",
+    "price": 15500,
+    "rating": 4.5,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max500/607205355.jpg?k=e89f69e756ff5a8fa9e8c76ed6b7cd78217f05460c14a0597be003ff5176f965&o=&hp=1",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max500/607205355.jpg?k=e89f69e756ff5a8fa9e8c76ed6b7cd78217f05460c14a0597be003ff5176f965&o=&hp=1",
+      "https://img.bedsandhotels.com/media/pic-surf-lavender-2.jpg",
+      "https://img.bedsandhotels.com/media/pic-surf-lavender-6.jpg",
+      "https://img.bedsandhotels.com/media/pic-surf-lavender-4.jpg"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Lamandu City Hotel",
+    "location": "Anuradhapura",
+    "type": "Homestay",
+    "price": 9000,
+    "rating": 4.2,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516862004.jpg?k=1105025809ccbb66a56a4e9415a4255adbd0467252657e64f11e7f45348d6394&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516862004.jpg?k=1105025809ccbb66a56a4e9415a4255adbd0467252657e64f11e7f45348d6394&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/516862022.jpg?k=0e8ecb9d0d95f0b3552e36be8c6d77fc33ff5711dc6f88fbaad1969cfc1c1cfd&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/516861953.jpg?k=440e1a20087f2a13b173e1d3a64c60c1408d669a8a972890b58aa2ae978f6d2f&o=",
+      "https://imgservice.bedroomvillas.com/375x250/lamandu-city-hotel-lk-anuradhapura-bc-11304175-4.jpg"
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Lulu's Bungalow",
+    "location": "Nuwara Eliya",
+    "type": "Eco Lodge",
+    "price": 15500,
+    "rating": 4.7,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/580450092.jpg?k=cdc847df0ee3062f18ed8ed3e4e07b3b7349cb277108e21608036ae361cb9aed&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/580450092.jpg?k=cdc847df0ee3062f18ed8ed3e4e07b3b7349cb277108e21608036ae361cb9aed&o=",
+      "https://content.skyscnr.com/available/2465326389/2465326389_WxH.jpg",
+      "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/17/0d/dd/6a.jpg",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/413506743.jpg?k=eb162fb077e8e2074f5035cb8dd893b27e3b22d5c0621254562f5b9ffe479e4c&o="
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Sandathenna by Secret Leisure",
+    "location": "Nuwara Eliya",
+    "type": "Hotel",
+    "price": 29700,
+    "rating": 4.2,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/610622480.jpg?k=70178e9b37258ea6ab64e063ffa458272db79d9ccf390b7acadf2cf7e5784e7c&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/610622480.jpg?k=70178e9b37258ea6ab64e063ffa458272db79d9ccf390b7acadf2cf7e5784e7c&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/612142284.jpg?k=b602532adaf07fd600e434d7ca02d3a4160af416b6444d057e55e32695b70915&o=",
+      "https://www.nuwaraeliyahotels.net/data/Photos/OriginalPhoto/16218/1621840/1621840697.JPEG",
+      "https://sandathenna-by-secret-leisure.nuwara-eliya-hotels.com/data/Photos/OriginalPhoto/16224/1622415/1622415988.JPEG"
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Gamodh Citadel Resort",
+    "location": "Anuradhapura",
+    "type": "Resort",
+    "price": 24500,
+    "rating": 4.6,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/682835098.jpg?k=ce808cbe9f0b685380901781bfbb291d1c1d935d2997df0919138af6249cf161&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/682835098.jpg?k=ce808cbe9f0b685380901781bfbb291d1c1d935d2997df0919138af6249cf161&o=",
+      "https://gamodhcitadelresort.com/wp-content/uploads/2024/02/gamodh-citadel-resort.jpg",
+      "https://pix10.agoda.net/hotelImages/302/302448/302448_16091912590046603290.jpg?ca=6&ce=1&s=414x232",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/586453232.jpg?k=bf3e6c9845aaeca14186f9c9fe1f30b605fb9741696c52559fbcf1194248a9d2&o="
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Happy Haven Homestay",
+    "location": "Anuradhapura",
+    "type": "Homestay",
+    "price": 7500,
+    "rating": 4,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/741974212.jpg?k=a41c78f72d51f291b4fe34b3faecc1b2db7f4060f21bbcbe65edfcc0cf784c43&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/741974212.jpg?k=a41c78f72d51f291b4fe34b3faecc1b2db7f4060f21bbcbe65edfcc0cf784c43&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max500/741974062.jpg?k=bd637fde95a252ed3d04f5484a03143d0fa9b332aaba1776c000ede890aa2515&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/741974182.jpg?k=b76ae9dfb623eeefdd551bf4e24fa0a0f0c2d31d9d10a97fe650568ca6f09861&o=",
+      "https://imgservice.casai.com/500x245/two-bedroom-holid-lk-anuradhapura-ha-61111710792-0.jpg"
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Jungle Breeze",
+    "location": "Mirissa",
+    "type": "Eco Lodge",
+    "price": 10800,
+    "rating": 4.5,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/638264003.jpg?k=efc41ea437bdf4765906fb654a251e29425269c17e8f43a20d97e2540552d767&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/638264003.jpg?k=efc41ea437bdf4765906fb654a251e29425269c17e8f43a20d97e2540552d767&o=",
+      "https://images.squarespace-cdn.com/content/v1/5a3bb03b4c326d76de73ddaa/1692058624427-D2VDUNKOK1LLIDYF94PB/The+Common+Wanderer-84.jpg",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/626865761.jpg?k=a535d823e723c4ebfc31e03a95f29ae91078d8ac8805500b3375dcef0a1fd08f&o=",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-29784164/original/8ce7a7c3-d7f9-4cb0-b5d4-9c970387372b.jpeg"
+    ]
+  },
+  {
+    "id": "26",
+    "name": "Queenswood Cottage",
+    "location": "Nuwara Eliya",
+    "type": "Hotel",
+    "price": 29000,
+    "rating": 4.4,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/117997196.jpg?k=09464d86898bfe2d8d7a0efbb5d1c65c64be4a34f3db3fbf8811b9669cb107ac&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/117997196.jpg?k=09464d86898bfe2d8d7a0efbb5d1c65c64be4a34f3db3fbf8811b9669cb107ac&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/134630213.jpg?k=7de87a3dc4e812febecf37f358e252a3ec068ebc2bc44fced03cfd99660650c3&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/134535199.jpg?k=51610098ac727bc70f1bc7ab5dab00bfd14273f3db374ff2bf0c58c9884afee7&o=",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/47/0a/eb/queenswood-cottage.jpg?w=900&h=500&s=1"
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Dharma Place",
+    "location": "Ahangama",
+    "type": "Resort",
+    "price": 29500,
+    "rating": 4.3,
+    "image": "https://q-xx.bstatic.com/xdata/images/hotel/max500/635369150.jpg?k=aa9568438842f7ab25fe81b56aed6ea63fe98328b35e55aad72e96c5b42fa256&o=",
+    "images": [
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/635369150.jpg?k=aa9568438842f7ab25fe81b56aed6ea63fe98328b35e55aad72e96c5b42fa256&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/793722246.jpg?k=191335c1c27978a5e76083d64c02bdd96b1ceec31bd5b79d4d8b3ae52503e956&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max500/792221141.jpg?k=e8dd3729aaa5af25395df311cbd2acbc55505391864c33084522d61e2aacf2cc&o=&hp=1",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/635369169.jpg?k=34ba9833f1258a3c08a4abb157b85a26eb5ac0392578a047196066032bcd0731&o="
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Gaya Place Mirissa",
+    "location": "Mirissa",
+    "type": "Homestay",
+    "price": 10200,
+    "rating": 4.3,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max500/762121035.jpg?k=3fdf7d8a3bae88aebd1f6afab594fba5f0f6832eb9f4bd6af810e64294a0ece6&o=&hp=1",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max500/762121035.jpg?k=3fdf7d8a3bae88aebd1f6afab594fba5f0f6832eb9f4bd6af810e64294a0ece6&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/762121094.jpg?k=7155bf0d4d23faf101c3afef48ced47956e4f20b4788bbef0c54cb07471cdd6b&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/762121143.jpg?k=766d522856e19cda0c19b51543f04b3f96650c0cc352d6cbadf46e8a8c6fad90&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/762121144.jpg?k=ac7ded5308ef49f0f73e4f7c3040f66c6d8707645993cad4ecbe8735e4a5d018&o="
+    ]
+  },
+  {
+    "id": "29",
+    "name": "Birds Bliss Cabana",
+    "location": "Unawatuna",
+    "type": "Eco Lodge",
+    "price": 7600,
+    "rating": 4.2,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/582023628.jpg?k=d45a9c590a51a359c35ef38489edcb1b5459276da3187999c53718848b6819b8&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/582023628.jpg?k=d45a9c590a51a359c35ef38489edcb1b5459276da3187999c53718848b6819b8&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/582021875.jpg?k=a2730ca22024e7783b1ea8a29851b4b41c18e8ab9e7de7812a1ddcb3a1f02d42&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/582023324.jpg?k=727f0015a154548de3094f9ce1cc3c90f8168bcf63aff95f0135cbaed3a7031f&o=",
+      "https://imgservice.vacationcottage.com/500x245/birds-bliss-cabana-lk-unawatuna-bc-12502233-0.jpg"
+    ]
+  },
+  {
+    "id": "30",
+    "name": "Shanora Beach",
+    "location": "Mirissa",
+    "type": "Hotel",
+    "price": 35000,
+    "rating": 4.5,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/330490389.jpg?k=1d6e308dca52523968a0d92a1aecf0cfbd115d5ae71b10b44dffffefc2aafcc9&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/330490389.jpg?k=1d6e308dca52523968a0d92a1aecf0cfbd115d5ae71b10b44dffffefc2aafcc9&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/330490378.jpg?k=2d12717155375da020d5e2756f573ce7ae5cea7d107a6dac05f2b3ef0aaabd19&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/330490414.jpg?k=4a925d1b34573ebe33fe8bf75977a2214a18d92620f139e80a61ea44bb0358f1&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/330490308.jpg?k=183ed2f957ed4ada076aa5542e59ec71c56ddd4133886a080964f4d4ddc8d460&o="
+    ]
+  },
+  {
+    "id": "31",
+    "name": "Wattura Resort & Spa",
+    "location": "Negombo",
+    "type": "Resort",
+    "price": 57000,
+    "rating": 4.5,
+    "image": "https://www.watturaresortandspa.com/wp-content/uploads/2019/02/eat-banner.jpg",
+    "images": [
+      "https://www.watturaresortandspa.com/wp-content/uploads/2019/02/eat-banner.jpg",
+      "https://lakpura.com/cdn/shop/files/LK156DF818-04-E.jpg?v=1745508566&width=1445",
+      "https://www.watturaresortandspa.com/wp-content/uploads/2023/02/L1A1285.jpg",
+      "https://www.watturaresortandspa.com/wp-content/uploads/2023/02/AM7I1769-1.jpg"
+    ]
+  },
+  {
+    "id": "32",
+    "name": "Honey Mango Homestay",
+    "location": "Negombo",
+    "type": "Homestay",
+    "price": 7600,
+    "rating": 4.5,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/753071318.jpg?k=e63d43caab15396f0d46a322d827beb6aeeca6659914e12431114c22edbecde9&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/753071318.jpg?k=e63d43caab15396f0d46a322d827beb6aeeca6659914e12431114c22edbecde9&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/595316778.jpg?k=a4779310693dc6a134085d4e5a20c19f6aa59bdea767a95433ba20dc31898122&o=",
+      "https://pix10.agoda.net/geo/poi/147750/2_147750_03.jpg?ca=7&ce=1&s=800x600",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/86192023.jpg?k=9ab8c9e98e9cca807d3340c78517725a018be6ba366e8da65d9ed5ea7a5a41aa&o="
+    ]
+  },
+  {
+    "id": "33",
+    "name": "The European Gate",
+    "location": "Anuradhapura",
+    "type": "Eco Lodge",
+    "price": 6700,
+    "rating": 4,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max500/811669161.jpg?k=699ed860813cfacaa771773b52a8199c5e557933d057fcea53f4c57bb22c02ce&o=&hp=1",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max500/811669161.jpg?k=699ed860813cfacaa771773b52a8199c5e557933d057fcea53f4c57bb22c02ce&o=&hp=1",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/120913490.jpg?k=17e2132fd1e6123f3005d86a9e0e0a4a7442eceb8999992d96295d381aea209e&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/118001136.jpg?k=91f55172df45d30137b803e9540f90fbaf42671ec8a8720a5636b08a9e204623&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/715568846.jpg?k=7e03fa3a9ab641d0c71921e13fd6ef1076c1a5fa75642f6335643bad7f2aa987&o="
+    ]
+  },
+  {
+    "id": "34",
+    "name": "Hotel White House",
+    "location": "Anuradhapura",
+    "type": "Hotel",
+    "price": 18500,
+    "rating": 4.7,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/88154319.jpg?k=9a3d761371335b551c5b32b6e4d52f3bfb80c3371d6e484ac322a78ba344975e&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/88154319.jpg?k=9a3d761371335b551c5b32b6e4d52f3bfb80c3371d6e484ac322a78ba344975e&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/123671446.jpg?k=d8675310873f0b5b15b56795eb003f2d6ddf7a90fcaa0677561acbf14f2ce848&o=",
+      "https://images.trvl-media.com/lodging/18000000/17520000/17518000/17517925/bda6e0fa.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+      "https://lakpura.com/cdn/shop/files/LK15315B9F-06-E_ab5f8e1b-03af-43c6-ad7f-ef0eb689a2f0.jpg?v=1726892931&width=1445"
+    ]
+  },
+  {
+    "id": "35",
+    "name": "Club Hotel Dolphin",
+    "location": "Negombo",
+    "type": "Resort",
+    "price": 45000,
+    "rating": 4.3,
+    "image": "https://lakpura.com/cdn/shop/files/LK94022000-07-E.jpg?v=1689824141&width=1445",
+    "images": [
+      "https://lakpura.com/cdn/shop/files/LK94022000-07-E.jpg?v=1689824141&width=1445",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/e0/d5/1f/club-hotel-dolphin.jpg?w=900&h=500&s=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525337471.jpg?k=4f2064554da3088a874f4f2f52965bdba26854e3f97fe9c5f5b3d25334bd4ed0&o=",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/fc/15/19/club-hotel-dolphin.jpg?w=900&h=500&s=1"
+    ]
+  },
+  {
+    "id": "36",
+    "name": "SkyPort Villa",
+    "location": "Negombo",
+    "type": "Homestay",
+    "price": 7800,
+    "rating": 4.5,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/779298283.jpg?k=4c6d24126d8efdf2ada94651a6c89737d6151b72a88ecfc06dd3f004f959de10&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/779298283.jpg?k=4c6d24126d8efdf2ada94651a6c89737d6151b72a88ecfc06dd3f004f959de10&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max500/747866910.jpg?k=750788bc56639b51e903b2031f9d22c708d1abc8c21e7afaa6adbc0ed8c773fd&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/779298298.jpg?k=51d35c41051ea0f319c898fda3a423cecec1d2949e24dbc07dfb49fcc77fa7ed&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/779299546.jpg?k=35109bb7fd750146d1884e976aaa2cc9113e16e6144838ddba7c4c98db158a83&o="
+    ]
+  },
+  {
+    "id": "37",
+    "name": "Cloudy Hill Cottage",
+    "location": "Ella",
+    "type": "Eco Lodge",
+    "price": 33400,
+    "rating": 4.6,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/600497541.jpg?k=46aeefdde9b0b0677722b1b047938fc13625f787f1376119433be2dcaa311f99&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/600497541.jpg?k=46aeefdde9b0b0677722b1b047938fc13625f787f1376119433be2dcaa311f99&o=",
+      "https://lakpura.com/cdn/shop/files/LK1590A346-02-E.jpg?v=1745817295",
+      "https://lakpura.com/cdn/shop/files/LK1590A346-01-E.jpg?v=1745817307&width=1445",
+      "https://lakpura.com/cdn/shop/files/LK1590A346-04-E.jpg?v=1745817321&width=1445"
+    ]
+  },
+  {
+    "id": "38",
+    "name": "Misty Villas",
+    "location": "Ella",
+    "type": "Hotel",
+    "price": 18800,
+    "rating": 4.5,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max500/386571629.jpg?k=054d1426b5816e1b88878bae883025e62cd596dd65f614d878643bb3efc6bd4b&o=&hp=1",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max500/386571629.jpg?k=054d1426b5816e1b88878bae883025e62cd596dd65f614d878643bb3efc6bd4b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416108872.jpg?k=66f0d4cfd04b8c71a86402c033e0e768bbbc13fb3d1500bc8e5b638d6a6a9cfe&o=",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/a4/76/12/caption.jpg?w=1200&h=1200&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/da/26/84/one-best-peace-full-and.jpg?w=1200&h=1200&s=1"
+    ]
+  },
+  {
+    "id": "39",
+    "name": "Belmount Ella",
+    "location": "Ella",
+    "type": "Resort",
+    "price": 12500,
+    "rating": 4.3,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/664250429.jpg?k=1ca347170bf32c13d484ef8e5960dcf8fef87251834c7eb8a5cd63d6466f42c7&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/664250429.jpg?k=1ca347170bf32c13d484ef8e5960dcf8fef87251834c7eb8a5cd63d6466f42c7&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/635233807.jpg?k=69792510885b3d9c4d8ccdd78e1c2dc298a2431db47bca64516700817351cb74&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/635236475.jpg?k=0b1a1eeea1d40db38df82748b28fab71e4816f26850a19e1f00a7e4fc10224f7&o=",
+      "https://images.trvl-media.com/lodging/112000000/111960000/111960000/111959973/b54052e2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+    ]
+  },
+  {
+    "id": "40",
+    "name": "Rose Dale Guest Inn Ella",
+    "location": "Ella",
+    "type": "Homestay",
+    "price": 18200,
+    "rating": 4.5,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/740032809.jpg?k=3c3aaef441e712f347d6b88d6ff58ae8eefe56c146450d9c0c6dfaf6976e1f50&o=",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/740032809.jpg?k=3c3aaef441e712f347d6b88d6ff58ae8eefe56c146450d9c0c6dfaf6976e1f50&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/785661127.jpg?k=ee73dadde07bf6c0ead77e977b6cfd10048762790c4dae14318ca98e7272103d&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/740032031.jpg?k=8ade709ed42c5543c738e7c585801d1c46816d962f9700e56d2d46d86c0c64bb&o=",
+      "https://aw-d.tripcdn.com/images/0223312000a7n7hv5A764.jpg"
+    ]
+  },
+  {
+    "id": "41",
+    "name": "Hiruni Cottage Ella",
+    "location": "Ella",
+    "type": "Eco Lodge",
+    "price": 7800,
+    "rating": 3.9,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max500/730033514.jpg?k=bdf7187f2e27b43dde039f4e95d82d288ab39e80f5937900c44662fb3ce84706&o=&hp=1",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max500/730033514.jpg?k=bdf7187f2e27b43dde039f4e95d82d288ab39e80f5937900c44662fb3ce84706&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/728408769.jpg?k=86d0dff4f6bfb7e03534052c14d72b9c7309754b367a3bd0c9320b5bade2292a&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/730029999.jpg?k=2ec5927e9be00055e6fea1be9ce72ba39c48b688a37135cc9ad22cef002b70cb&o=",
+      "https://cf.bstatic.com/xdata/images/city/square250/988924.jpg?k=2a1a571c6bd6a2c80947230734f717d2a3e68219a8f743a3dbbabaeddf0bcc67&o="
+    ]
+  }
+]

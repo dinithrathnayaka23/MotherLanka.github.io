@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kandy-esala",
+    "title": "Kandy Esala Perahera",
+    "category": "Festival",
+    "location": "Kandy",
+    "startDate": "2026-07-30",
+    "endDate": "2026-08-09",
+    "description": "A grand cultural festival with dancers, drummers, and decorated elephants honoring the Sacred Tooth Relic.",
+    "image": "https://lakpura.com/cdn/shop/articles/Perahera.jpg?v=1608951893"
+  },
+  {
+    "id": "galle-literary",
+    "title": "Galle Literary Festival",
+    "category": "Culture",
+    "location": "Galle",
+    "startDate": "2026-01-15",
+    "endDate": "2026-01-19",
+    "description": "Writers and thinkers gather in historic Galle Fort for talks, workshops, and performances.",
+    "image": "https://galleliteraryfestival.com/wp-content/uploads/2024/01/GLF.jpg"
+  },
+  {
+    "id": "ella-trail-run",
+    "title": "Ella Trail Run",
+    "category": "Adventure",
+    "location": "Ella",
+    "startDate": "2026-04-12",
+    "endDate": "2026-04-12",
+    "description": "A scenic trail run through tea estates, bridges, and misty hills.",
+    "image": "https://www.trailrun.lk/wp-content/uploads/2023/12/ella-trail.jpg"
+  },
+  {
+    "id": "turtle-release",
+    "title": "Turtle Conservation Release",
+    "category": "Nature",
+    "location": "Kosgoda",
+    "startDate": "2026-03-22",
+    "endDate": "2026-03-22",
+    "description": "Join local conservationists for a baby turtle release and marine education session.",
+    "image": "https://kosgodaseaturtles.org/wp-content/uploads/2022/05/turtle-release.jpg"
+  }
+]

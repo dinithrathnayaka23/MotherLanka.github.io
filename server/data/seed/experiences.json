@@ -1,0 +1,162 @@
+[
+  {
+    "id": "whale-mirissa",
+    "title": "Whale Watching in Mirissa",
+    "category": "Wildlife",
+    "duration": "3 Hours",
+    "rating": 4.8,
+    "short": "Witness majestic blue whales along Sri Lanka's southern coast.",
+    "description": "Mirissa is one of the best places in the world to witness blue whales. This guided experience offers a safe and unforgettable journey into the Indian Ocean.",
+    "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6a/e4/f2.jpg",
+    "highlights": [
+      "Blue whale sightings",
+      "Experienced guides",
+      "Early morning cruise",
+      "Family-friendly"
+    ]
+  },
+  {
+    "id": "ella-hike",
+    "title": "Ella Rock Sunrise Hike",
+    "category": "Adventure",
+    "duration": "4 Hours",
+    "rating": 4.7,
+    "short": "A scenic hike through tea plantations and misty hills.",
+    "description": "Climb to Ella Rock at dawn for a panoramic sunrise. The trail winds through tea plantations and forested paths, rewarding you with sweeping valley views.",
+    "image": "https://static.saltinourhair.com/wp-content/uploads/2016/11/23155637/Things-to-do-Ella-Sri-Lanka-Nine-arch-bridge-view-2.jpg",
+    "highlights": [
+      "Sunrise views",
+      "Local guide",
+      "Tea plantation trails",
+      "Great for photographers"
+    ]
+  },
+  {
+    "id": "sigiriya-tour",
+    "title": "Sigiriya Ancient Fortress Tour",
+    "category": "Culture",
+    "duration": "2-3 Hours",
+    "rating": 4.9,
+    "short": "Explore Sri Lanka's most iconic UNESCO World Heritage Site.",
+    "description": "Walk through the ancient gardens and climb the rock fortress with a guide who brings Sigiriya's history to life.",
+    "image": "https://whenonearth.net/wp-content/uploads/Sigiriya-Rock-Sri-Lanka.jpg",
+    "highlights": [
+      "UNESCO site",
+      "Expert storyteller guide",
+      "Ancient frescoes",
+      "Panoramic summit view"
+    ]
+  },
+  {
+    "id": "yala-safari",
+    "title": "Yala Wildlife Safari",
+    "category": "Wildlife",
+    "duration": "4-5 Hours",
+    "rating": 4.8,
+    "short": "Spot leopards, elephants, and birdlife in Yala National Park.",
+    "description": "Ride through Yala's most scenic tracks with an experienced tracker and learn about Sri Lanka's wildlife.",
+    "image": "https://adventuresnolimits.com/wp-content/uploads/2023/05/Yala_National_Park_Sri_Lanka_2012-przerobione.jpg",
+    "highlights": [
+      "Leopard hotspots",
+      "Open-top safari jeep",
+      "Experienced tracker",
+      "Great for photography"
+    ]
+  },
+  {
+    "id": "galle-fort-walk",
+    "title": "Galle Fort Heritage Walk",
+    "category": "Culture",
+    "duration": "2 Hours",
+    "rating": 4.7,
+    "short": "Explore the colonial streets, cafés, and sea walls of Galle Fort.",
+    "description": "Discover Dutch-era architecture and hidden courtyards with a local guide who shares the stories behind the fort.",
+    "image": "https://www.travellankaconnection.com/images/destinations/gallery_Galle_Dutch_Fort.jpg",
+    "highlights": [
+      "UNESCO heritage site",
+      "Colonial architecture",
+      "Ocean views",
+      "Hidden lanes and courtyards"
+    ]
+  },
+  {
+    "id": "horton-plains-trek",
+    "title": "Horton Plains & World's End Trek",
+    "category": "Adventure",
+    "duration": "5-6 Hours",
+    "rating": 4.8,
+    "short": "A highland trek to World's End and Baker's Falls.",
+    "description": "Start early to catch misty landscapes and wide-open views in Sri Lanka's most iconic highland park.",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/85/1c/01/horton-plains-national.jpg?w=900&h=-1&s=1",
+    "highlights": [
+      "World's End viewpoint",
+      "Baker's Falls",
+      "Cool-climate hike",
+      "Endemic wildlife"
+    ]
+  },
+  {
+    "id": "arugam-bay-surf",
+    "title": "Arugam Bay Surf Session",
+    "category": "Adventure",
+    "duration": "2-3 Hours",
+    "rating": 4.6,
+    "short": "Learn to surf or level up on Sri Lanka's east coast.",
+    "description": "Join a surf coach in Arugam Bay and ride consistent waves in a laid-back beach town.",
+    "image": "https://lakpura.com/cdn/shop/files/LKI9256041-01-E.jpg?v=1661430881&width=3840",
+    "highlights": [
+      "Beginner-friendly breaks",
+      "Boards and rash guard included",
+      "Local surf instructors",
+      "Warm ocean water"
+    ]
+  },
+  {
+    "id": "nuwara-eliya-tea",
+    "title": "Nuwara Eliya Tea Estate Tour",
+    "category": "Culture",
+    "duration": "3 Hours",
+    "rating": 4.7,
+    "short": "Visit a tea factory and stroll through rolling plantations.",
+    "description": "Learn how Ceylon tea is made and enjoy a guided walk through scenic estates.",
+    "image": "https://cdn.shopify.com/s/files/1/0265/8710/3329/files/15979547-female-worker-at-tea-plantation-nuwara-eliya-sri-lanka_large.jpg?v=1577073410",
+    "highlights": [
+      "Factory walkthrough",
+      "Tea tasting",
+      "Estate viewpoints",
+      "Cool hill-country air"
+    ]
+  },
+  {
+    "id": "unawatuna-snorkel",
+    "title": "Unawatuna Snorkeling Escape",
+    "category": "Wellness",
+    "duration": "2 Hours",
+    "rating": 4.5,
+    "short": "Swim in clear waters and spot colorful reef fish.",
+    "description": "A relaxed snorkeling session in Unawatuna with calm waters and a protected bay.",
+    "image": "https://www.wondersofceylon.com/content/images/2024/01/WoC-Unawatuna-Beach-Featured.webp",
+    "highlights": [
+      "Calm bay waters",
+      "Reef fish spotting",
+      "Family-friendly",
+      "Beach time after snorkel"
+    ]
+  },
+  {
+    "id": "ella-train-ride",
+    "title": "Scenic Train Ride to Ella",
+    "category": "Adventure",
+    "duration": "3-4 Hours",
+    "rating": 4.9,
+    "short": "Ride one of the most scenic train routes in the world.",
+    "description": "Travel through misty mountains, tea estates, and iconic bridges on the way to Ella.",
+    "image": "https://static.saltinourhair.com/wp-content/uploads/2016/11/23155637/Things-to-do-Ella-Sri-Lanka-Nine-arch-bridge-view-2.jpg",
+    "highlights": [
+      "Epic hillside views",
+      "Photo stops",
+      "Open-door train vibes",
+      "Tea estate landscapes"
+    ]
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "ella",
+    "name": "Ella",
+    "category": "Hill Country & Scenic",
+    "region": "Uva Province",
+    "weather": "Cool Climate",
+    "duration": "2-3 Days",
+    "bestTime": "January to April",
+    "description": "Ella is a charming hill-town in Sri Lanka known for its cool climate, lush tea plantations, and scenic mountain views. It is famous for attractions like Ella Rock, Little Adam's Peak, and the iconic Nine Arches Bridge. Ella is a perfect destination for nature lovers, hikers, and travelers seeking relaxation in a peaceful environment.",
+    "images": [
+      "https://www.thecoastalcampaign.com/wp-content/uploads/2019/06/Things-to-do-in-Ella.jpg",
+      "https://static.saltinourhair.com/wp-content/uploads/2016/11/23155637/Things-to-do-Ella-Sri-Lanka-Nine-arch-bridge-view-2.jpg",
+      "https://www.far-out.travel/wp-content/uploads/2021/03/Backpacking-Ella-6.jpg"
+    ]
+  },
+  {
+    "id": "sigiriya",
+    "name": "Sigiriya",
+    "category": "Culture & Heritage",
+    "region": "Central Province",
+    "weather": "Warm Climate",
+    "duration": "1-2 Days",
+    "bestTime": "January to April",
+    "description": "Sigiriya is one of Sri Lanka's most iconic historical sites, centered around the ancient Sigiriya Rock Fortress. Built in the 5th century, it features impressive frescoes, landscaped gardens, and panoramic views from the summit. Sigiriya is a UNESCO World Heritage Site and offers a unique blend of history, architecture, and natural beauty.",
+    "images": [
+      "https://whenonearth.net/wp-content/uploads/Sigiriya-Rock-Sri-Lanka.jpg",
+      "https://lakpura.com/cdn/shop/files/LK60EXBA3F-05-E.jpg?v=1755509606",
+      "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/65564eabecaa89001dc39525.jpg"
+    ]
+  },
+  {
+    "id": "mirissa",
+    "name": "Mirissa",
+    "category": "Beaches & Coastal",
+    "region": "Southern Province",
+    "weather": "Warm Climate",
+    "duration": "2-3 Days",
+    "bestTime": "November to April",
+    "description": "Mirissa is a popular coastal town famous for its beautiful beaches and vibrant seaside atmosphere. It is one of the best places in Sri Lanka for whale watching, especially between November and April. With golden sands, turquoise waters, and stunning sunsets, Mirissa is ideal for beach relaxation and water activities.",
+    "images": [
+      "https://digitaltravelcouple.com/wp-content/uploads/2020/01/mirissa-beach-sri-lanka-1.jpg",
+      "https://cdn.lakpura.com/images/LK94007734-10-E.JPG",
+      "https://media.timeout.com/images/106252539/image.jpg"
+    ]
+  },
+  {
+    "id": "yala",
+    "name": "Yala National Park",
+    "category": "Wildlife & Safari",
+    "region": "Southern Province",
+    "weather": "Dry Climate",
+    "duration": "1-2 Days",
+    "bestTime": "February to July",
+    "description": "Yala National Park is Sri Lanka's most well-known wildlife sanctuary, renowned for having one of the highest leopard densities in the world. The park is home to elephants, sloth bears, crocodiles, and a wide variety of bird species. Yala offers exciting safari experiences and showcases Sri Lanka's rich biodiversity.",
+    "images": [
+      "https://adventuresnolimits.com/wp-content/uploads/2023/05/Yala_National_Park_Sri_Lanka_2012-przerobione.jpg",
+      "https://images.squarespace-cdn.com/content/v1/5a3bb03b4c326d76de73ddaa/a2345362-8172-4329-9fc7-010cf2a19b25/The+Common+Wanderer-8796-2.jpg",
+      "https://lakpura.com/cdn/shop/files/22.jpg?v=1653560685&width=3840"
+    ]
+  },
+  {
+    "id": "galle-fort",
+    "name": "Galle Fort",
+    "category": "History & Architecture",
+    "region": "Southern Province",
+    "weather": "Warm Climate",
+    "duration": "1 Day",
+    "bestTime": "December to April",
+    "description": "Galle Fort is a historic coastal fortress built by the Portuguese and later fortified by the Dutch. It features well-preserved colonial architecture, charming streets, museums, and ocean views. The fort is a UNESCO World Heritage Site and offers a unique blend of history, culture, and modern lifestyle.",
+    "images": [
+      "https://afar.brightspotcdn.com/dims4/default/dffc58f/2147483647/strip/true/crop/1600x800+0+0/resize/1440x720!/quality/90/?url=https%3A%2F%2Fk3-prod-afar-media.s3.us-west-2.amazonaws.com%2Fbrightspot%2F65%2F34%2Facbaa757c112666ad291d14c8427%2Foriginal-257f690912cb23806c7ade7b9b406cd9.jpg",
+      "https://www.travellankaconnection.com/images/destinations/gallery_Galle_Dutch_Fort.jpg",
+      "https://media.cntravellerme.com/photos/6679185364c11ffe86eb6eeb/16:9/w_2560%2Cc_limit/1150415140"
+    ]
+  },
+  {
+    "id": "udawalawe",
+    "name": "Udawalawe National Park",
+    "category": "Wildlife & Nature",
+    "region": "Sabaragamuwa Province",
+    "weather": "Dry Climate",
+    "duration": "1 Day",
+    "bestTime": "May to September",
+    "description": "Udawalawe National Park is one of the best places in Sri Lanka to see wild elephants in their natural habitat. The park also hosts water buffalo, deer, crocodiles, and many bird species. It is a popular destination for jeep safaris and wildlife photography.",
+    "images": [
+      "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6a/e4/f2.jpg",
+      "https://images.squarespace-cdn.com/content/v1/5a3bb03b4c326d76de73ddaa/d0a7ce12-3b90-4aba-856e-d275ebf9a3c6/The_Common_Wanderer_-0508.jpg",
+      "https://srilankatravelandtourism.com/wp-content/uploads/2024/06/udawalawe.jpg"
+    ]
+  },
+  {
+    "id": "temple-of-tooth",
+    "name": "Temple of the Tooth Relic",
+    "category": "Religious & Cultural",
+    "region": "Central Province",
+    "weather": "Mild Climate",
+    "duration": "Half Day",
+    "bestTime": "Year Round",
+    "description": "The Temple of the Tooth Relic is one of the most sacred Buddhist sites in the world. Located in Kandy, it houses the sacred tooth relic of Lord Buddha. The temple is known for its spiritual atmosphere, traditional architecture, and daily religious rituals.",
+    "images": [
+      "https://www.ceylonexpeditions.com/medias/destination_places/big/106/temple-of-the-sacred-tooth-relic-kandy.jpg",
+      "https://www.andbeyond.com/wp-content/uploads/sites/5/Temple-Sacred-Tooth-Relic-kandy-sri-lanka.jpg",
+      "https://lakpura.com/cdn/shop/files/LK60000B03-07-E.jpg?v=1734591358"
+    ]
+  },
+  {
+    "id": "adams-peak",
+    "name": "Adam's Peak",
+    "category": "Pilgrimage & Hiking",
+    "region": "Sabaragamuwa Province",
+    "weather": "Cool Climate",
+    "duration": "1-2 Days",
+    "bestTime": "December to May",
+    "description": "Adam's Peak is a sacred mountain revered by multiple religions and known for the footprint at its summit. Pilgrims climb the mountain during the pilgrimage season to witness a breathtaking sunrise. The hike offers spiritual significance as well as stunning natural scenery.",
+    "images": [
+      "/adams-peak.jpg",
+      "https://slingadventures.com/wp-content/uploads/2017/09/Adams-peak-descent.jpg",
+      "https://res.cloudinary.com/enchanting/q_70,f_auto,c_lfill,g_auto/exodus-web/2021/12/39286_1-1.jpg"
+    ]
+  },
+  {
+    "id": "unawatuna",
+    "name": "Unawatuna Beach",
+    "category": "Beaches & Relaxation",
+    "region": "Southern Province",
+    "weather": "Warm Climate",
+    "duration": "2-3 Days",
+    "bestTime": "November to April",
+    "description": "Unawatuna Beach is a beautiful crescent-shaped beach known for its calm waters and golden sands. It is ideal for swimming, snorkeling, and relaxing by the sea. The beach also offers vibrant cafes and a lively yet peaceful atmosphere.",
+    "images": [
+      "https://www.wondersofceylon.com/content/images/2024/01/WoC-Unawatuna-Beach-Featured.webp",
+      "https://feelfreetravel.com/blog/wp-content/uploads/2024/03/unawatuna-beach-min-1.jpg",
+      "https://lakpura.com/cdn/shop/files/LK15061400-01-E.jpg?v=1740108080"
+    ]
+  },
+  {
+    "id": "nuwara-eliya",
+    "name": "Nuwara Eliya",
+    "category": "Hill Country & Scenic",
+    "region": "Central Province",
+    "weather": "Cool Climate",
+    "duration": "2-3 Days",
+    "bestTime": "February to April",
+    "description": "Nuwara Eliya is a hill-town famous for its cool climate, tea plantations, and colonial-era architecture. Often called \"Little England,\" it offers scenic landscapes, waterfalls, and gardens. It is a popular destination for relaxation and nature exploration.",
+    "images": [
+      "https://lakpura.com/cdn/shop/files/LK951R0000-10-E_4fb5ce5e-c060-481b-9ee3-429c7a3a7b72.jpg?v=1689939550&width=3840",
+      "https://cdn.shopify.com/s/files/1/0265/8710/3329/files/15979547-female-worker-at-tea-plantation-nuwara-eliya-sri-lanka_large.jpg?v=1577073410",
+      "https://lakpura.com/cdn/shop/products/LK611R0100-01-E-1280-720.jpg?v=1620976566"
+    ]
+  },
+  {
+    "id": "horton-plains",
+    "name": "Horton Plains National Park",
+    "category": "Nature & Wildlife",
+    "region": "Central Highlands",
+    "weather": "Cool Climate",
+    "duration": "1 Day",
+    "bestTime": "January to March",
+    "description": "Horton Plains is a protected highland plateau known for its rich biodiversity and unique landscapes. It is home to famous viewpoints like World's End and Baker's Falls. The park is ideal for nature walks, wildlife spotting, and eco-tourism.",
+    "images": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/85/1c/01/horton-plains-national.jpg?w=900&h=-1&s=1",
+      "https://lakpura.com/cdn/shop/products/LK7301A000-01-E-1280-720.jpg?v=1624074587",
+      "https://images.ctfassets.net/2ctencdtf9g8/3zGSabBcz2kChEMGzsoDlU/ff1bdcace659a4d80ed0586f8fd7e86f/horton8-min.jpg"
+    ]
+  },
+  {
+    "id": "liptons-seat",
+    "name": "Lipton's Seat",
+    "category": "Scenic Viewpoints",
+    "region": "Uva Province",
+    "weather": "Cool Climate",
+    "duration": "Half Day",
+    "bestTime": "January to April",
+    "description": "Lipton's Seat is a panoramic viewpoint located in the tea estates of Haputale. It was once a favorite lookout of tea pioneer Sir Thomas Lipton. The location offers breathtaking views of surrounding hills and tea plantations, especially during sunrise.",
+    "images": [
+      "https://hideawaytrails.com/wp-content/uploads/2019/10/lipton.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/e7/46/09/lovely-tour-lipton-seat.jpg?w=1200&h=-1&s=1",
+      "https://haputaletea.com/wp-content/uploads/2019/11/liptons-seat-small.jpg"
+    ]
+  },
+  {
+    "id": "arugam-bay",
+    "name": "Arugam Bay",
+    "category": "Surfing & Beaches",
+    "region": "Eastern Province",
+    "weather": "Warm Climate",
+    "duration": "2-4 Days",
+    "bestTime": "May to October",
+    "description": "Arugam Bay is a world-famous surfing destination on Sri Lanka's east coast. It attracts surfers from around the globe due to its consistent waves. The town also offers a laid-back beach culture and beautiful coastal scenery.",
+    "images": [
+      "https://lakpura.com/cdn/shop/files/LKI9256041-01-E.jpg?v=1661430881&width=3840",
+      "https://www.thecoastalcampaign.com/wp-content/uploads/2019/06/P3290197-1080x675.jpg",
+      "https://lp-cms-production.imgix.net/2019-06/f0275838e5f1a765d23f3d1835d4c541-arugam-bay-beach.jpg"
+    ]
+  },
+  {
+    "id": "anuradhapura",
+    "name": "Anuradhapura Ancient City",
+    "category": "Ancient Heritage",
+    "region": "North Central Province",
+    "weather": "Warm Climate",
+    "duration": "2 Days",
+    "bestTime": "November to March",
+    "description": "Anuradhapura is one of Sri Lanka's oldest ancient cities and a major center of Buddhist heritage. It features impressive stupas, monasteries, and ancient reservoirs. The city is a UNESCO World Heritage Site and an important pilgrimage destination.",
+    "images": [
+      "https://d1bv4heaa2n05k.cloudfront.net/user-images/1481633951521/shutterstock-480723793_main_1481633955837.jpeg",
+      "https://media.tacdn.com/media/attractions-splice-spp-674x446/08/39/aa/e0.jpg",
+      "https://elprismadefer.com/wp-content/uploads/2025/11/blog_anuradhapura01.webp"
+    ]
+  },
+  {
+    "id": "sinharaja",
+    "name": "Sinharaja Forest Reserve",
+    "category": "Rainforest & Biodiversity",
+    "region": "Sabaragamuwa Province",
+    "weather": "Humid Climate",
+    "duration": "1-2 Days",
+    "bestTime": "January to April",
+    "description": "Sinharaja is a UNESCO-listed rainforest and a biodiversity hotspot in Sri Lanka. It is home to many endemic plant and animal species. The forest is ideal for nature lovers, bird watchers, and eco-tourists.",
+    "images": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/24/04/bb/caption.jpg?w=1200&h=-1&s=1",
+      "https://lakpura.com/cdn/shop/files/LK64C26329-02-E.jpg?v=1700453863&width=1445",
+      "https://mistofsinharaja.com/wp-content/uploads/2023/09/eab551c472de16df9f3af59e0a492ce5.jpg"
+    ]
+  },
+  {
+    "id": "botanic-gardens",
+    "name": "Peradeniya Botanic Gardens",
+    "category": "Gardens & Nature",
+    "region": "Central Province",
+    "weather": "Moderate Climate",
+    "duration": "Half Day",
+    "bestTime": "Year Round",
+    "description": "The Peradeniya Botanical Garden is the largest botanical garden in Sri Lanka. It features a wide variety of tropical plants, orchids, and trees. The garden is a popular place for relaxation, learning, and nature walks.",
+    "images": [
+      "https://lakpura.com/cdn/shop/products/LK60173800-01-E-1280-720.jpg?v=1620048376",
+      "https://www.greatgardensoftheworld.com/wp-content/uploads/2020/01/GALLERY_RBG-5.jpg",
+      "https://www.greatgardensoftheworld.com/wp-content/uploads/2020/01/GALLERY_RBG-3.jpg"
+    ]
+  },
+  {
+    "id": "nilaveli-uppuveli",
+    "name": "Nilaveli & Uppuveli Beaches",
+    "category": "Beaches & Relaxation",
+    "region": "Eastern Province",
+    "weather": "Warm Climate",
+    "duration": "2-3 Days",
+    "bestTime": "May to September",
+    "description": "Nilaveli and Uppuveli are pristine beach destinations near Trincomalee, known for their clear waters and white sandy beaches. They are ideal for swimming, snorkeling, and peaceful beach relaxation. These beaches offer a calm and uncrowded coastal experience.",
+    "images": [
+      "https://www.lovesrilanka.org/wp-content/uploads/2020/04/LS_Uppuveli_Nilaveli_Beach_Desktop_1920x7001.jpg",
+      "https://www.torntackies.com/wp-content/uploads/2019/03/nilaveli-beach-trincomalee-1024x683.jpg",
+      "https://lp-cms-production.imgix.net/2021-03/Uppuveli_Sri_Lanka.jpg?w=1920&h=640&fit=crop&crop=faces%2Cedges&auto=format&q=75"
+    ]
+  },
+  {
+    "id": "polonnaruwa",
+    "name": "Polonnaruwa Ruins",
+    "category": "Ancient Heritage",
+    "region": "North Central Province",
+    "weather": "Warm Climate",
+    "duration": "1-2 Days",
+    "bestTime": "November to March",
+    "description": "Polonnaruwa is an ancient royal city featuring well-preserved ruins of palaces, temples, and statues. It showcases advanced ancient engineering and Buddhist art. Polonnaruwa is a UNESCO World Heritage Site and a key historical attraction.",
+    "images": [
+      "https://www.travelmapsrilanka.com/destinations/destinationimages/polonnaruwa-in-sri-lanka.webp",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/56/c8/25/caption.jpg?w=500&h=400&s=1",
+      "https://therestlessbeans.com/wp-content/uploads/2025/04/ancient-city-of-polonnaruwa-sri-lanka-statue-reclining-budha.webp"
+    ]
+  },
+  {
+    "id": "wilpattu",
+    "name": "Wilpattu National Park",
+    "category": "Wildlife Safari",
+    "region": "North Western Province",
+    "weather": "Dry Climate",
+    "duration": "1 Day",
+    "bestTime": "February to October",
+    "description": "Wilpattu National Park is Sri Lanka's largest national park, known for its natural lakes called \"villus.\" It is home to leopards, elephants, sloth bears, and many bird species. The park offers a quieter and more natural safari experience.",
+    "images": [
+      "https://www.wilpattunationalpark.com/img/safari3.jpg",
+      "https://media.tacdn.com/media/attractions-splice-spp-674x446/0e/18/71/c1.jpg",
+      "https://lakpura.com/cdn/shop/products/LK71290100-01-E.jpg?v=1680248614"
+    ]
+  },
+  {
+    "id": "ravana-falls",
+    "name": "Ravana Falls",
+    "category": "Waterfalls & Nature",
+    "region": "Uva Province",
+    "weather": "Cool Climate",
+    "duration": "Half Day",
+    "bestTime": "January to April",
+    "description": "Ravana Falls is a stunning waterfall located near Ella. It is associated with the legendary story of King Ravana from the Ramayana. The waterfall is a popular roadside attraction and a scenic spot for visitors.",
+    "images": [
+      "https://cdn.lakpura.com/images/LK94008788-02-E.JPG",
+      "https://cdn.lakpura.com/images/LK94009721-03-E.JPG",
+      "https://cdn.lakpura.com/images/LK94009721-04-E.JPG"
+    ]
+  },
+  {
+    "id": "bentota",
+    "name": "Bentota",
+    "category": "Beaches & Water Sports",
+    "region": "Western Province",
+    "weather": "Warm Climate",
+    "duration": "2-3 Days",
+    "bestTime": "November to April",
+    "description": "Bentota is a coastal town famous for its sandy beaches and water sports. Visitors can enjoy activities such as jet skiing, river safaris, and boat rides. Bentota is ideal for both relaxation and adventure.",
+    "images": [
+      "https://www.srilankaclassytours.com/medias/place/big/574/thumb.jpg",
+      "https://lakpura.com/cdn/shop/files/LK950D0000-10-E.jpg?v=1702439790&width=3840",
+      "https://deyotours.com/wp-content/uploads/2022/09/Bentota-view-from-upper.jpg"
+    ]
+  },
+  {
+    "id": "dambulla",
+    "name": "Dambulla Cave Temple",
+    "category": "Ancient Heritage",
+    "region": "Central Province",
+    "weather": "Warm Climate",
+    "duration": "Half Day",
+    "bestTime": "November to March",
+    "description": "The Dambulla Cave Temple is a sacred Buddhist site featuring ancient cave paintings and statues. It is the largest and best-preserved cave temple complex in Sri Lanka. The temple is a UNESCO World Heritage Site with significant historical and religious value.",
+    "images": [
+      "https://www.globetrove.com/wp-content/uploads/2018/10/dambulla-golden-temple.jpg.webp",
+      "https://d104tpg70nvstz.cloudfront.net/2016/09/dumbulla-cave-header-image-mob.jpg",
+      "https://sigiriyafortress.com/wp-content/uploads/2022/09/Dambulla-Cave-temple-Culturale-Triangle-sri-lanka-2-1.jpg"
+    ]
+  },
+  {
+    "id": "minneriya",
+    "name": "Minneriya National Park",
+    "category": "Wildlife Safari",
+    "region": "North Central Province",
+    "weather": "Dry Climate",
+    "duration": "1 Day",
+    "bestTime": "July to September",
+    "description": "Minneriya National Park is famous for the annual \"Gathering\" of wild elephants. During this period, large herds gather around the Minneriya Tank. The park offers excellent wildlife viewing and safari experiences.",
+    "images": [
+      "https://allpointseast.com/wp-content/uploads/2025/04/DSC_1146.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5e/07/6a/caption.jpg?w=800&h=800&s=1",
+      "https://www.bluelankatours.com/wp-content/uploads/2017/06/Minneriya_National_Park_In_Sri_Lanka.jpg"
+    ]
+  },
+  {
+    "id": "bambarakanda",
+    "name": "Bambarakanda Falls",
+    "category": "Waterfalls & Hiking",
+    "region": "Uva Province",
+    "weather": "Cool Climate",
+    "duration": "1 Day",
+    "bestTime": "March to May",
+    "description": "Bambarakanda Falls is the tallest waterfall in Sri Lanka, located in a scenic mountainous area. It is surrounded by lush greenery and hiking trails. The waterfall is ideal for nature lovers and adventure seekers.",
+    "images": [
+      "https://cdn.lakpura.com/images/LK94008782-05-E.JPG",
+      "https://cdn.lakpura.com/images/LK94008782-01-E.JPG",
+      "https://cdn.lakpura.com/images/LK94009951-01-E.JPG"
+    ]
+  },
+  {
+    "id": "hikkaduwa",
+    "name": "Hikkaduwa",
+    "category": "Beaches & Nightlife",
+    "region": "Southern Province",
+    "weather": "Warm Climate",
+    "duration": "2-3 Days",
+    "bestTime": "November to April",
+    "description": "Hikkaduwa is a lively beach town known for its coral reefs and snorkeling opportunities. It also offers surfing, diving, and vibrant nightlife. Hikkaduwa is a popular destination for both relaxation and entertainment.",
+    "images": [
+      "https://www.lovesrilanka.org/wp-content/uploads/2020/06/LSL_B2_Hikkaduwa-Beach_1920x700.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/82/0b/5f/image-result-for-importance.jpg?w=900&h=500&s=1",
+      "https://lakpura.com/cdn/shop/products/LK58110100-05-E-1280-720.jpg?v=1625585412&width=1445"
+    ]
+  },
+  {
+    "id": "jaya-sri-maha-bodhi",
+    "name": "Jaya Sri Maha Bodhi",
+    "category": "Sacred Buddhist Site",
+    "region": "North Central Province",
+    "weather": "Warm Climate",
+    "duration": "Half Day",
+    "bestTime": "Year Round",
+    "description": "Jaya Sri Maha Bodhi is a sacred fig tree in Anuradhapura, believed to be the oldest historically documented tree in the world. It was grown from a cutting of the tree under which Buddha attained enlightenment. The site is highly revered by Buddhists.",
+    "images": [
+      "https://cdn.lakpura.com/images/LK94009685-01-E.JPG",
+      "https://www.attractionsinsrilanka.com/wp-content/uploads/2020/09/Jaya-Sri-Maha-Bodhi.jpg",
+      "https://www.satipatthana.net/wp-content/uploads/Sri-Maha-Bodiya.jpg"
+    ]
+  },
+  {
+    "id": "pigeon-island",
+    "name": "Pigeon Island National Park",
+    "category": "Marine & Snorkeling",
+    "region": "Eastern Province",
+    "weather": "Warm Climate",
+    "duration": "Half Day",
+    "bestTime": "May to September",
+    "description": "Pigeon Island is a marine national park located near Nilaveli. It is known for coral reefs, tropical fish, and clear blue waters. The island is a popular spot for snorkeling and marine exploration.",
+    "images": [
+      "https://lakpura.com/cdn/shop/files/LK94009739-11-E_1181ade6-8cc5-43cd-8e2e-9709a64f9a34.jpg?v=1747380416&width=3840",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/0c/b8/01/getlstd-property-photo.jpg?w=1200&h=-1&s=1",
+      "https://www.lovesrilanka.org/wp-content/uploads/2020/04/LS_PigeonIslandDesktop_1920x7001.jpg"
+    ]
+  },
+  {
+    "id": "ambewela",
+    "name": "Ambewela Farm",
+    "category": "Agro Tourism",
+    "region": "Central Province",
+    "weather": "Cool Climate",
+    "duration": "Half Day",
+    "bestTime": "January to April",
+    "description": "Ambewela Farm is a well-known dairy farm located in Sri Lanka's hill country. It features green pastures, cool climate, and scenic landscapes. The farm is a popular stop for visitors exploring Nuwara Eliya.",
+    "images": [
+      "https://www.travelmapsrilanka.com/destinations/destinationimages/ambewela-farm-booking.webp",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/e0/98/43/wow.jpg?w=900&h=500&s=1",
+      "https://cdn.lakpura.com/images/LK94008490-06-E.JPG"
+    ]
+  },
+  {
+    "id": "weligama",
+    "name": "Weligama",
+    "category": "Surfing & Beaches",
+    "region": "Southern Province",
+    "weather": "Warm Climate",
+    "duration": "2 Days",
+    "bestTime": "November to April",
+    "description": "Weligama is a coastal town famous for beginner-friendly surfing beaches. It is also known for traditional stilt fishing. The area offers a relaxed beach atmosphere with beautiful ocean views.",
+    "images": [
+      "https://cdn.lakpura.com/images/LK94007728-02-E.JPG",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/0f/53/8f/weligama-beach.jpg?w=1400&h=-1&s=1",
+      "https://lakpura.com/cdn/shop/files/Weligama_3d34bebf-ece2-4fd1-a8e0-016502f16872.jpg?v=1698924969&width=3840"
+    ]
+  },
+  {
+    "id": "mihintale",
+    "name": "Mihintale",
+    "category": "Ancient Buddhist Site",
+    "region": "North Central Province",
+    "weather": "Warm Climate",
+    "duration": "Half Day",
+    "bestTime": "November to March",
+    "description": "Mihintale is regarded as the birthplace of Buddhism in Sri Lanka. It is a sacred site where Buddhism was introduced to the island. Mihintale features ancient ruins, stupas, and panoramic views.",
+    "images": [
+      "https://www.lanka-excursions-holidays.com/uploads/4/0/2/1/40216937/sitting-buddha-for-attractions-900_orig.jpg",
+      "https://sigiriyafortress.com/wp-content/uploads/2020/11/mihintale-skala.jpg",
+      "https://i0.wp.com/amazinglanka.com/wp/wp-content/uploads/2013/07/IMG_0149.jpg?resize=640%2C367&ssl=1"
+    ]
+  },
+  {
+    "id": "knuckles",
+    "name": "Knuckles Mountain Range",
+    "category": "Adventure & Trekking",
+    "region": "Central Highlands",
+    "weather": "Cool Climate",
+    "duration": "2-4 Days",
+    "bestTime": "January to April",
+    "description": "The Knuckles Mountain Range is a UNESCO-listed conservation area known for its rugged terrain and biodiversity. It offers hiking trails, waterfalls, and scenic viewpoints. The area is ideal for adventure tourism and nature exploration.",
+    "images": [
+      "https://cdn.lakpura.com/images/LK94009828-01-E.JPG",
+      "https://i0.wp.com/amazinglanka.com/wp/wp-content/uploads/2014/09/knuckles-01.jpg?fit=800%2C450&ssl=1",
+      "https://lakpura.com/cdn/shop/files/LK94009783-12-E.jpg?v=1654071189&width=3200"
+    ]
+  },
+  {
+    "id": "haputale-gap",
+    "name": "Haputale Gap",
+    "category": "Scenic Viewpoints",
+    "region": "Uva Province",
+    "weather": "Cool Climate",
+    "duration": "Half Day",
+    "bestTime": "January to April",
+    "description": "Haputale Gap is a dramatic mountain pass offering breathtaking views of valleys and tea estates. It is known for cool weather and misty landscapes. The viewpoint is a popular stop for scenic photography.",
+    "images": [
+      "https://leisuremountview.lk/wp-content/uploads/2024/10/Haputale-Gap.webp",
+      "https://i0.wp.com/ravanatours.com/wp-content/uploads/2024/02/Wangedigala-in-Haputale.jpg?resize=748%2C391&ssl=1",
+      "https://visituva.lk/gallery/202510/1759508336_686ba54608f907fb255d.jpeg"
+    ]
+  },
+  {
+    "id": "tangalle",
+    "name": "Tangalle",
+    "category": "Beaches & Relaxation",
+    "region": "Southern Province",
+    "weather": "Warm Climate",
+    "duration": "2-3 Days",
+    "bestTime": "November to April",
+    "description": "Tangalle is a peaceful coastal town known for its wide, unspoiled beaches. It is ideal for relaxation, swimming, and whale watching nearby. Tangalle offers a quiet and natural beach experience.",
+    "images": [
+      "https://travelnania.com/wp-content/uploads/2024/03/silent-beach-tangalle-sri-lanka.jpg",
+      "https://www.islands.com/img/gallery/sri-lankas-most-underrated-beach-town-is-a-coastal-gem-with-golden-sand-and-turtle-sanctuaries/intro-1736933325.jpg",
+      "https://cdn.londonerinsydney.com/wp-content/uploads/2019/10/12160959/things-to-do-in-Sri-Lanka-1.jpg?strip=all&resize=1024%2C683"
+    ]
+  },
+  {
+    "id": "yapahuwa",
+    "name": "Yapahuwa Rock Fortress",
+    "category": "Ancient Heritage",
+    "region": "North Western Province",
+    "weather": "Warm Climate",
+    "duration": "Half Day",
+    "bestTime": "November to March",
+    "description": "Yapahuwa is an ancient rock fortress that once served as Sri Lanka's capital. It is famous for its ornamental stone staircase and ruins. The site offers historical significance and panoramic views from the top.",
+    "images": [
+      "https://www.attractionsinsrilanka.com/wp-content/uploads/2021/01/Yapahuwa-Rock-Fortress.jpg",
+      "https://www.lanka-excursions-holidays.com/uploads/4/0/2/1/40216937/flight-of-stairways-in-yapahuwa-900_orig.jpg",
+      "https://static.saltinourhair.com/wp-content/uploads/2020/07/23113216/Yapahuwa-Rock-sri-lanka-1152x1440.jpg"
+    ]
+  },
+  {
+    "id": "kumana",
+    "name": "Kumana National Park",
+    "category": "Wildlife & Nature",
+    "region": "Eastern Province",
+    "weather": "Warm Climate",
+    "duration": "1-2 Days",
+    "bestTime": "April to July",
+    "description": "Kumana National Park is a renowned wildlife sanctuary located on Sri Lanka's southeastern coast. It is especially famous for its rich birdlife, including many migratory and endemic species that nest in its wetlands. The park is also home to elephants, leopards, and other wildlife, making it an excellent destination for birdwatching and nature-based safaris.",
+    "images": [
+      "https://lakpura.com/cdn/shop/files/LK50G01000-20-E.jpg?v=1737022032",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/51/3a/2e/birds-at-kumana.jpg?w=1200&h=-1&s=1",
+      "https://www.kumananationalpark.com/images/slider/09.jpg"
+    ]
+  },
+  {
+    "id": "negombo",
+    "name": "Negombo",
+    "category": "Beaches & Culture",
+    "region": "Western Province",
+    "weather": "Warm Climate",
+    "duration": "1-2 Days",
+    "bestTime": "November to April",
+    "description": "Negombo is a coastal city known for its fishing industry and sandy beaches. It is located close to the international airport, making it a popular entry point for travelers. The city also features colonial heritage and vibrant local markets.",
+    "images": [
+      "https://lakpura.com/cdn/shop/files/negombo.jpg?v=1740733016&width=3840",
+      "https://lakpura.com/cdn/shop/products/LK611P0100-01-E-1280-720.jpg?v=1620123290",
+      "https://www.gokitetours.com/wp-content/uploads/2025/01/Top-8-Fascinating-Places-to-Visit-in-Negombo-Sri-Lanka-1200x720.webp"
+    ]
+  }
+]
