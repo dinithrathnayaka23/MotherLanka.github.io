@@ -31,16 +31,36 @@ const Footer = () => {
             </Link>
           </div>
           <div className="flex gap-5 text-xl">
-            <a href="#" className="hover:text-accent transition-colors">
+            <a
+              href="https://www.facebook.com"
+              target="_blank"
+              rel="noreferrer"
+              className="hover:text-accent transition-colors"
+            >
               <i className="fab fa-facebook-f"></i>
             </a>
-            <a href="#" className="hover:text-accent transition-colors">
+            <a
+              href="https://www.instagram.com"
+              target="_blank"
+              rel="noreferrer"
+              className="hover:text-accent transition-colors"
+            >
               <i className="fab fa-instagram"></i>
             </a>
-            <a href="#" className="hover:text-accent transition-colors">
+            <a
+              href="https://www.x.com"
+              target="_blank"
+              rel="noreferrer"
+              className="hover:text-accent transition-colors"
+            >
               <i className="fab fa-twitter"></i>
             </a>
-            <a href="#" className="hover:text-accent transition-colors">
+            <a
+              href="https://www.youtube.com"
+              target="_blank"
+              rel="noreferrer"
+              className="hover:text-accent transition-colors"
+            >
               <i className="fab fa-youtube"></i>
             </a>
           </div>
@@ -48,7 +68,7 @@ const Footer = () => {
 
         <div className="text-center md:text-right text-white/80 text-sm">
           <p>{t("footer.crafted")}</p>
-          <p className="mt-1">© 2026 MotherLanka</p>
+          <p className="mt-1">&copy; 2026 MotherLanka</p>
         </div>
       </div>
     </footer>
