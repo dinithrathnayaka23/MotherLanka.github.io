@@ -5,7 +5,7 @@
 > Preview
 >
 > <p align="center">
-  <img src="client/public/Motherlanka.png" alt="FIT23Hub Preview" width="100%">
+  <img src="client/public/Mother.png" alt="FIT23Hub Preview" width="100%">
 </p>
 
 MotherLanka is a modern web-based platform designed to showcase the beauty of Sri Lanka.  
