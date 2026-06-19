@@ -1,6 +1,12 @@
 # 🇱🇰 MotherLanka
 
 > **Discover the Beauty, Culture, and Heritage of Sri Lanka**
+>
+> Preview
+>
+> <p align="center">
+  <img src="client/public/Motherlanka.png" alt="FIT23Hub Preview" width="100%">
+</p>
 
 MotherLanka is a modern web-based platform designed to showcase the beauty of Sri Lanka.  
 The project highlights Sri Lankan tourism, culture, heritage, destinations, food, nature, and travel experiences through a clean and attractive user interface.
