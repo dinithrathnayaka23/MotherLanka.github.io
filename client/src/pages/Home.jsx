@@ -3,7 +3,6 @@ import Footer from "../components/layout/Footer";
 import HeroSection from "../components/home/HeroSection";
 import ExperienceSelector from "../components/home/ExperienceSelector";
 import FeaturedDestinations from "../components/home/FeatureDestinations";
-import ChatbotButton from "../components/chatbot/ChatbotButton";
 import HomeStats from "../components/home/HomeStats";
 import HomeHowItWorks from "../components/home/HomeHowItWorks";
 import HomeTestimonials from "../components/home/HomeTestimonials";
@@ -35,7 +34,6 @@ const Home = () => {
       <SlideDown>
         <HomeNewsletter />
       </SlideDown>
-      <ChatbotButton onClick={() => window.dispatchEvent(new Event("open-chatbot"))} />
       <Footer />
     </>
   );
