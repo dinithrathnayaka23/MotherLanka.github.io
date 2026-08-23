@@ -39,6 +39,12 @@ app.use("/api/chat", chatRoutes);
 app.use("/api/rag", ragRoutes);
 app.use("/api/payments", paymentRoutes);
 
+app.use((err, req, res, next) => {
+  console.error(err);
+  if (res.headersSent) return next(err);
+  res.status(500).json({ message: "Internal server error" });
+});
+
 const port = process.env.PORT || 5000;
 
 getDb()

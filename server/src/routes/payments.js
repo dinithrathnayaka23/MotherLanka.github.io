@@ -2,6 +2,7 @@ const express = require("express");
 const crypto = require("crypto");
 const { getDb } = require("../db");
 const { bookingSchema } = require("../utils/validation");
+const { asyncHandler } = require("../utils/asyncHandler");
 
 const router = express.Router();
 
@@ -28,7 +29,9 @@ const splitName = (fullName) => {
   return { firstName: parts[0], lastName: parts.slice(1).join(" ") };
 };
 
-router.post("/payhere/checkout", async (req, res) => {
+router.post(
+  "/payhere/checkout",
+  asyncHandler(async (req, res) => {
   const parsed = bookingSchema.safeParse(req.body);
   if (!parsed.success) {
     return res.status(400).json({ message: "Invalid booking payload" });
@@ -143,12 +146,13 @@ router.post("/payhere/checkout", async (req, res) => {
       custom_2: refId,
     },
   });
-});
+  })
+);
 
 router.post(
   "/payhere/notify",
   express.urlencoded({ extended: false }),
-  async (req, res) => {
+  asyncHandler(async (req, res) => {
     const merchantId = process.env.PAYHERE_MERCHANT_ID;
     const merchantSecret = process.env.PAYHERE_MERCHANT_SECRET;
     if (!merchantId || !merchantSecret) {
@@ -199,7 +203,7 @@ router.post(
     );
 
     return res.send("OK");
-  }
+  })
 );
 
 module.exports = router;
