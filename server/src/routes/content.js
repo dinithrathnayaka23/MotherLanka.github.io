@@ -2,6 +2,7 @@ const express = require("express");
 const { getDb } = require("../db");
 const { requireAuth, requireAdmin } = require("../middleware/auth");
 const { asyncHandler } = require("../utils/asyncHandler");
+const { rebuildRagIndex } = require("../rag");
 const {
   resolveRequestLang,
   translateText,
@@ -9,6 +10,10 @@ const {
 } = require("../utils/translate");
 
 const router = express.Router();
+
+const triggerRagRebuild = () => {
+  rebuildRagIndex().catch((err) => console.error("RAG rebuild failed", err));
+};
 
 const parseJsonField = (value, fallback) => {
   try {
@@ -207,6 +212,7 @@ router.post(
         JSON.stringify(i18n || {}),
       ]
     );
+    triggerRagRebuild();
     return res.status(201).json({ ok: true });
   })
 );
@@ -245,6 +251,7 @@ router.put(
         req.params.id,
       ]
     );
+    triggerRagRebuild();
     return res.json({ ok: true });
   })
 );
@@ -256,6 +263,7 @@ router.delete(
   asyncHandler(async (req, res) => {
     const db = await getDb();
     await db.run("DELETE FROM destinations WHERE id = ?", [req.params.id]);
+    triggerRagRebuild();
     return res.json({ ok: true });
   })
 );
@@ -317,6 +325,7 @@ router.post(
         JSON.stringify(i18n || {}),
       ]
     );
+    triggerRagRebuild();
     return res.status(201).json({ ok: true });
   })
 );
@@ -345,6 +354,7 @@ router.put(
         req.params.id,
       ]
     );
+    triggerRagRebuild();
     return res.json({ ok: true });
   })
 );
@@ -356,6 +366,7 @@ router.delete(
   asyncHandler(async (req, res) => {
     const db = await getDb();
     await db.run("DELETE FROM stays WHERE id = ?", [req.params.id]);
+    triggerRagRebuild();
     return res.json({ ok: true });
   })
 );
@@ -424,6 +435,7 @@ router.post(
         JSON.stringify(i18n || {}),
       ]
     );
+    triggerRagRebuild();
     return res.status(201).json({ ok: true });
   })
 );
@@ -461,6 +473,7 @@ router.put(
         req.params.id,
       ]
     );
+    triggerRagRebuild();
     return res.json({ ok: true });
   })
 );
@@ -472,6 +485,7 @@ router.delete(
   asyncHandler(async (req, res) => {
     const db = await getDb();
     await db.run("DELETE FROM experiences WHERE id = ?", [req.params.id]);
+    triggerRagRebuild();
     return res.json({ ok: true });
   })
 );
@@ -537,6 +551,7 @@ router.post(
         JSON.stringify(i18n || {}),
       ]
     );
+    triggerRagRebuild();
     return res.status(201).json({ ok: true });
   })
 );
@@ -564,6 +579,7 @@ router.put(
         req.params.id,
       ]
     );
+    triggerRagRebuild();
     return res.json({ ok: true });
   })
 );
@@ -575,6 +591,7 @@ router.delete(
   asyncHandler(async (req, res) => {
     const db = await getDb();
     await db.run("DELETE FROM events WHERE id = ?", [req.params.id]);
+    triggerRagRebuild();
     return res.json({ ok: true });
   })
 );
