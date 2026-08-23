@@ -188,12 +188,12 @@ const StayDetails = () => {
   }
 
   const priceFormatted = stay
-    ? new Intl.NumberFormat("en-US", {
+    ? new Intl.NumberFormat("en-LK", {
         style: "currency",
-        currency: "USD",
+        currency: "LKR",
         minimumFractionDigits: 2,
         maximumFractionDigits: 2,
-      }).format(Number(stay.price) / 300)
+      }).format(Number(stay.price))
     : "";
 
   return (

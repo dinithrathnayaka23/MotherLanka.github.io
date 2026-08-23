@@ -4,13 +4,12 @@ import { useLanguage } from "../../context/LanguageContext";
 const StayCard = ({ stay }) => {
   const navigate = useNavigate();
   const { t } = useLanguage();
-  const usdPrice = Number(stay.price) / 300;
-  const priceFormatted = new Intl.NumberFormat("en-US", {
+  const priceFormatted = new Intl.NumberFormat("en-LK", {
     style: "currency",
-    currency: "USD",
+    currency: "LKR",
     minimumFractionDigits: 2,
     maximumFractionDigits: 2,
-  }).format(usdPrice);
+  }).format(Number(stay.price));
 
   return (
     <div
